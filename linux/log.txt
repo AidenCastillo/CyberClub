@@ -1,8 +1,12 @@
-no updates will be ran
-No upgrades will be ran
-Not installing firewall
+End of media file search
 User larry max and min days were updated
 User terry max and min days were updated
 User barry max and min days were updated
 User LightningMcqueen max and min days were updated
+prevent logons with empty passwords
+Editting /etc/login.defs
+New user PASS_MAX_DAYS updated to 90
+new user PASS_MIN_DAYS updated to 7
+New User PASS_WARN_AGE updated to 7
 Max, min, and warm age for new users updated
+Disabled ssh Root Login
