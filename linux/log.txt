@@ -1,8 +1,22 @@
+No updates will be ran
+No upgrades will be ran
+nmap was removed
+hydra was removed
+john was removed
+nikto was removed
+netcat was removed
+Not installing firewall
+Auditd was not turned on
+Start of media file search: 
+/home/amc/Documents/CyberClub/linux/test.mp3
 End of media file search
 User larry max and min days were updated
 User terry max and min days were updated
 User barry max and min days were updated
 User LightningMcqueen max and min days were updated
+Password complexity set
+Password history set
+Lockout policy set to 3 attempts, unlock duration 600 seconds
 prevent logons with empty passwords
 Editting /etc/login.defs
 New user PASS_MAX_DAYS updated to 90
